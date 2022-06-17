@@ -1,0 +1,9 @@
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\bin\Debug\LibrarieModele.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\NivelStocareDate\obj\Debug\NivelStocareDate.pdb

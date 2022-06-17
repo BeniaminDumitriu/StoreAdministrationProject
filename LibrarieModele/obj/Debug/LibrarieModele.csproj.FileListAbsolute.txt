@@ -1,0 +1,6 @@
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\LibrarieModele\bin\Debug\LibrarieModele.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\LibrarieModele\bin\Debug\LibrarieModele.pdb
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\LibrarieModele\obj\Debug\LibrarieModele.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\LibrarieModele\obj\Debug\LibrarieModele.pdb

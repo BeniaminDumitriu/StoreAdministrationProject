@@ -1,0 +1,17 @@
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe.config
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\UI_WindowsForms.pdb
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\LibrarieModele.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\NivelStocareDate.dll
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\LibrarieModele.pdb
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\bin\Debug\NivelStocareDate.pdb
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.AssemblyReference.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.Angajati.resources
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.Meniu.resources
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.Produse.resources
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.Properties.Resources.resources
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.GenerateResource.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CoreCompileInputs.cache
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CopyComplete
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.exe
+D:\proiect_piu\Proiect bun\Magazin\StoreAdministrationProject\UI_WindowsForms\obj\Debug\UI_WindowsForms.pdb
